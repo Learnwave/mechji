@@ -1,3 +1,1 @@
-ccd# mechji
-amarjjet
-s
+this project is for building website for mechji
